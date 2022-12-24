@@ -4,9 +4,10 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkgx207&layout=compact&langs_count=16&theme=aura"/>
   
 </div>
+
 <br>
 
-<div class="social" style="">
+<div class="social">
   <h1 align="center" color="red">Redes Sociais <br>
     <a href='https://www.linkedin.com/in/guilherme-rocha-da-silva-591076205/'> Linkedin </a> </br>
     <p> Discord : ShadowSaga#7692 </p>  
