@@ -7,8 +7,10 @@
 <br>
 
 <div class="social" style="">
-  <h1 align="center" style="font-size:20pt">Redes Sociais <br>
-    <a align='left' href='https://www.linkedin.com/in/guilherme-rocha-da-silva-591076205/'> Linkedin  </a>
+  <h1 align="center" color="red">Redes Sociais <br>
+    <a href='https://www.linkedin.com/in/guilherme-rocha-da-silva-591076205/'> Linkedin </a> </br>
+    <p> Discord : ShadowSaga#7692 </p>  
+    
   </h1>
 </div>
 
