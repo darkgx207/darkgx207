@@ -1,16 +1,21 @@
-### Hi there 👋
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=darkgx207&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkgx207&layout=compact&langs_count=16&theme=aura"/>
+  
+</div>
+<br>
 
-<!--
-**darkgx207/darkgx207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Redes Sociais <br>
 
-Here are some ideas to get you started:
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</h1>
+
+<h1 align="center"> habilidades <br>
+
+[![My Skills](https://skillicons.dev/icons?i=python,vue,django,js,php,linux,git,bash,flask,mysql,postgres,vim,markdown,latex,html,css)](https://skillicons.dev)
+
+</h1>
+
