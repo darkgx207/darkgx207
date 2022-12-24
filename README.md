@@ -7,9 +7,11 @@
 <br>
 
 <h1 align="center">Redes Sociais <br>
-
+<a href='https://www.linkedin.com/in/guilherme-rocha-da-silva-591076205/'>
+  
   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-
+  
+ </a>
 
 </h1>
 
