@@ -6,14 +6,14 @@
 </div>
 <br>
 
-<h1 align="center">Redes Sociais <br>
-<a href='https://www.linkedin.com/in/guilherme-rocha-da-silva-591076205/'>
-  
-  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-  
- </a>
+<div class="social" style="">
+  <h1 align="center" style="font-size:20pt">Redes Sociais <br>
+    <a align='left' href='https://www.linkedin.com/in/guilherme-rocha-da-silva-591076205/'> Linkedin  </a>
+  </h1>
+</div>
 
-</h1>
+
+
 
 <h1 align="center"> habilidades <br>
 
