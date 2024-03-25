@@ -20,7 +20,7 @@
 
 <h1 align="center"> habilidades <br>
 
-[![My Skills](https://skillicons.dev/icons?i=python,vue,django,js,php,linux,react,java,docker,git,bash,flask,mysql,postgres,vim,markdown,latex,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,angular,python,js,flask,django,php,linux,docker,git,bash,mysql,postgres,vim,markdown,latex,html,css)](https://skillicons.dev)
 
 </h1>
 
