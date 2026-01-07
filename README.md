@@ -1,7 +1,9 @@
 <p>Olá, me chamo Guilherme. Sou desenvolvedor de software com experiencia sólida em Spring-boot e Angular. Atuando principalmente com aplicações e microserviços robustos de larga escala</p>
 <br/>
 <p>Tenho formação em Analise e Desenvolvimento de Sistemas, Física e especialização em Matemática. </p>
-<p>Sou hobbista na area de computação em geral, me interessando por assuntos dos mais diversos tipos, desde tópicos de engenharia da computação à Ciencia da Computação.</p>
+<p>Sou hobbista na area de computação em geral, me interessando por assuntos dos mais diversos tipos, desde tópicos de engenharia da computação, Ciencia da Computação e Sistemas Operacionais.</p>
+
+<p>Adoro passar meu tempo me envolvendo com personalização de sistemas Linux, Neovim, RPGs, Animes, conhecendo o "under the hood" da cada abstração de frameworks e ferramentas. Sou bastante curioso e me interesso pelo fundamento das coisas</p>
 
 <div class="social">
   <h1 align="center" color="red">Redes Sociais <br>
