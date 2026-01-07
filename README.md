@@ -1,11 +1,7 @@
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=darkgx207&show_icons=true&theme=blueberry&include_all_commits=true&count_private=false"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkgx207&layout=compact&langs_count=16&theme=aura"/>
-  
-</div>
-
-<br>
+<p>Olá, me chamo Guilherme. Sou desenvolvedor de software com experiencia sólida em Spring-boot e Angular. Atuando principalmente com aplicações e microserviços robustos de larga escala</p>
+<br/>
+<p>Tenho formação em Analise e Desenvolvimento de Sistemas, Física e especialização em Matemática. </p>
+<p>Sou hobbista na area de computação em geral, me interessando por assuntos dos mais diversos tipos, desde tópicos de engenharia da computação à Ciencia da Computação.</p>
 
 <div class="social">
   <h1 align="center" color="red">Redes Sociais <br>
@@ -20,7 +16,7 @@
 
 <h1 align="center"> habilidades <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,angular,python,js,flask,django,php,linux,docker,git,bash,mysql,postgres,vim,markdown,latex,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,java,angular,rust,python,ts,flask,linux,php,docker,git,bash,mysql,postgres,vim,markdown,latex,html,css)](https://skillicons.dev)
 
 </h1>
 
